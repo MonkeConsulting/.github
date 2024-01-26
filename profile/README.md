@@ -9,10 +9,3 @@
 //	    | \
 //      m  m       ASCII art from ejm97
 ```
-
-Tools that we use to create:
-- TailwindCSS
-- Next.JS
-- Docker
-- React
-- Zod
